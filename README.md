@@ -9,10 +9,17 @@ In this project,we are going to analyse the dataset of Google Play Store, Google
 ## **Feature**
 
 It gives the information about the different properties of the APPS which is independent of each other like 
+
 1-Name
+
 2-Category
+
 3-Size
+
 4-Type
+
 5-Price
+
 6-Content Rating
+
 7-Android Version .
